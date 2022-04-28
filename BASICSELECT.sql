@@ -1,4 +1,4 @@
-Query all columns (attributes) for every row in the CITY table.
+Query all columns (attributes) for every row in the City table.
 Input Format
 The CITY table is described as follows:
 
